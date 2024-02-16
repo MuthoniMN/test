@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "74647704-7aa0-4466-ba41-a269c5e3ad47"
+      }
+    },
+    "owner": "mitch_muthoni"
   }
 }
